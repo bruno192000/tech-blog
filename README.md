@@ -44,7 +44,7 @@ and it will show you the local host 2077!
 
   
   ## Usage
-  Just type "node server.js" in your terminal. After that, a promt will apear with the number of the port. This page is lived in heroku. Try it <a href = ""> HERE!</a>
+  Just type "node server.js" in your terminal. After that, a promt will apear with the number of the port. This page is lived in heroku. Try it <a href = "https://bloger100.herokuapp.com/"> HERE!</a>
 
   <img src="./assets/Screenshot (14).png" alt="failed to load">
   
